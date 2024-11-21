@@ -1,0 +1,7 @@
+streamlit
+pandas
+altair
+biopandas
+plotly
+py3Dmol
+requests
